@@ -1,0 +1,4 @@
+- 👋 Hi, I'm @Sanec-Gat
+- 👀 I'm interested in learning programming languages such as python, c#, c++, java, json, php, html, css.
+- 🌱 I am currently studying at school (9th grade) 
+- 📫 How to contact me, I use email alexanderstudenikin2007@gmail.com
